@@ -1,0 +1,9 @@
+@import '../../../styles/colors';
+@import '../../../styles/variables';
+
+.student-list{
+  margin-top: 70px;
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap; 
+}
